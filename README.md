@@ -5,14 +5,10 @@
     <img alt="X-2.0" height="300" src="https://i.imgur.com/EBmqEoB.jpeg">
   </a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Impact&size=50&pause=1000&color=db0000&center=true&width=910&height=100&lines=THIS IS+SHADOW-MD ;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+JOY BOY SER;IF+YOU+LIKE+MY+BOT+STAR+THE+REPO+⭐" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Impact&size=50&pause=1000&color=db0000&center=true&width=910&height=100&lines=THIS IS+SHADOW-MD ;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+JOY BOY SER;IF+YOU+LIKE+MY+BOT+STAR+THE+REPO+⭐"  /></a>
   
 
-- [SET UP](#setup)
-- [DEPLOYING METHODE](#deployingmethode)
-- [OWNER](#owner)
-- [Note](#note)
-- [LICENSE](#License)
+
 
 <div align="center">
   
