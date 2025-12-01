@@ -25,8 +25,8 @@
 
    5. Clone Repo and install required packages
       ```
-      git clone https://github.com/SamPandey001/Secktor-Md
-      cd Secktor-Md
+      git clone https://github.com/s-hasil/SHADOW-MD.git
+      cd SHADOW-MD
       yarn install --network-concurrency 1
       ```
 
@@ -40,12 +40,12 @@
       ```
       OWNER_NUMBER="911234567890"
       MONGODB_URI="mongodb+srv://*************"
-      SESSION_ID = "secktorbot.herokuapp.com/session"
+      SESSION_ID = "shadowbot.herokuapp.com/session"
       THUMB_IMAGE = "https://raw.githubusercontent.com/SecktorBot/Brandimages/main/logos/SocialLogo%201.png"
       port = 5000
-      email = "sam@secktor.live"
+      email = "joyboyser@gmail.com"
       global_url = "instagram.com"
-      OWNER_NAME = "SamPandey001"
+      OWNER_NAME = "JoyBoySer"
       AUTO_REACTION = false
       FAKE_COUNTRY_CODE = 92
       READ_MESSAGE = false
@@ -55,9 +55,9 @@
       ANTI_BAD_WORD = "fuck"
       LEVEL_UP_MESSAGE= true
       WELCOME_MESSAGE =  "*Hi,* @user \n*Welcome in* @gname \n*Member count* : @count th"
-      THEME= SECKTOR
+      THEME= SHADOW-MD
       WORKTYPE = public
-      PACK_INFO = "Sam;Pandey"
+      PACK_INFO = "Joy;Bou"
       ANTILINK_VALUES = "chat.whatsapp.com"
       
       ```
