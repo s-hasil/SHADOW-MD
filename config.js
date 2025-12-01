@@ -8,12 +8,12 @@ global.mongodb = process.env.MONGODB_URI || "Enter-MongoURI-HERE"
 global.port= process.env.PORT || 5000
 global.email = 'joyboyser.com'
 global.github = 'https://github.com/JoyBoySer/SHADOW-MD.git'
-global.location = 'Sultanpur IN'
+global.location = 'kerala IN'
 global.gurl = 'https://instagram.com/' // add your username
 global.sudo = process.env.SUDO || '918714504817'
 global.devs = '918714504817';
 global.website = 'https://github.com/JoyBoySer/SHADOW-MD.git' //wa.me/+91000000000000
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://raw.githubusercontent.com/SecktorBot/Brandimages/main/logos/SocialLogo%201.png'
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://i.imgur.com/EBmqEoB.jpeg'
 module.exports = {
   botname: process.env.BOT_NAME || 'Shadow-Md',
   ownername:process.env.OWNER_NAME || 'JoyBoySer',
