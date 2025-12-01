@@ -41,7 +41,7 @@
       OWNER_NUMBER="911234567890"
       MONGODB_URI="mongodb+srv://*************"
       SESSION_ID = "shadowbot.herokuapp.com/session"
-      THUMB_IMAGE = "https://raw.githubusercontent.com/SecktorBot/Brandimages/main/logos/SocialLogo%201.png"
+      THUMB_IMAGE = "https://i.imgur.com/EBmqEoB.jpeg"
       port = 5000
       email = "joyboyser@gmail.com"
       global_url = "instagram.com"
